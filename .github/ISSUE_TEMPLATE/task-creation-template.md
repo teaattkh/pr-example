@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Task Creation Template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-*Task Creation Template*
 **Task Owner (Responsible): [First Name, Last Initial]**
 **Task Assignee (Accountable): [First Name, Last Initial]**
 **Task Deadline: [MM/DD/YYYY]**
